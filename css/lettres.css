@@ -1,0 +1,58 @@
+body {
+    width: 100%;
+    align-content: center;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+#conteneur {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+#bandeau {
+    float: left;
+    width: 100%;
+    background-color: rgb(47,103,122);
+    margin: 0px;
+    
+}
+#lettres {
+    width: 100%;
+}
+div {
+    float: left;
+    width: 250px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+img {
+   text-align: left;
+}
+h4 {
+    text-align: center;
+    width: 250px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    
+}
+h1 {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: large;
+    margin-top: 30px;
+}
+a {
+    text-decoration: none;
+    color: rgb(35,87,102);
+}
+.responsive {
+    text-align: center;
+    align-self: center;
+
+}
+a {
+    text-decoration: none;
+    color: rgb(47,103,122);
+}
